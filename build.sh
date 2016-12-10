@@ -6,4 +6,4 @@ composer update
 #php artisan optimize
 #php artisan up
 
-zip -r package.zip ./ -x *.git*
+zip -r package.zip ./ -x *.git* 
